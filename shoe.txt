@@ -1,0 +1,6 @@
+Loafer Light, GoldStar, 190, 1000, domestic
+Inigo 732, Caliber, 85, 2800, domestic
+Lite Racer, Adidas, 200, 7000, international
+partyshoes, gorkha, 75, 20, domestic
+nike, Airjorden, 60, 100, domestic
+chuck taylor, Converse, 15, 200, international
