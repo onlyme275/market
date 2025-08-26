@@ -65,3 +65,4 @@ def restock():
         outputfile.writelines(inputfile)
 
     print(f"Restock complete.")
+    print("thanks for visit!")
